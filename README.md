@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
-
+##
 <p align="center">
   <img alt="Ecoleta" src="https://user-images.githubusercontent.com/60319097/89062214-730dbc80-d33c-11ea-834f-0ce1045739e5.png" width="100%">
 </p>
